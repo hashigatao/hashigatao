@@ -1,7 +1,7 @@
 ## Salut, je suis Nolan 👋
 
 # Présentation
-Je m'appelle Nolan TU, je suis en but informatique à l'IUT Robert Schuman à Illkirch(67).
+Je m'appelle Nolan TU, je suis en but informatique à l'IUT Robert Schuman (Illkirch).
 
 # Technologies
 - Java
@@ -10,7 +10,7 @@ Je m'appelle Nolan TU, je suis en but informatique à l'IUT Robert Schuman à Il
 - SQL
 
 # Objectifs
-Apprendre à coder des applications
+Apprendre à coder des applications/logiciels
 
 <!--
 **hashigatao/hashigatao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
