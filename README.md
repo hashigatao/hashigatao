@@ -1,4 +1,16 @@
-## Hi there 👋
+## Salut, je suis Nolan 👋
+
+# Présentation
+Je m'appelle Nolan TU, je suis en but informatique à l'IUT Robert Schuman à Illkirch(67).
+
+# Technologies
+- Java
+- C/C#
+- HTML/CSS
+- SQL
+
+# Objectifs
+Apprendre à coder des applications
 
 <!--
 **hashigatao/hashigatao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
